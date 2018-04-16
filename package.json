@@ -1,11 +1,12 @@
 {
-  "name": "cvss2js",
+  "name": "@arnoschn/cvss2js",
   "version": "1.0.0",
   "description": "CVSSv2 Vector Calculator",
   "main": "index.js",
   "scripts": {
     "test": "nyc mocha"
   },
+  "private": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sparticvs/cvss2js.git"
